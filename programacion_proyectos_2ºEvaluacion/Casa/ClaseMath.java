@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class ClaseMath {
 
 	public static void main(String[] args) {
-		System.out.println("Esto es la clase math");
-		System.out.println("Meto otro cambio");
+		
 		Scanner reader = new Scanner (System.in);
 		System.out.print("dime un numero");
 		double numero=reader.nextDouble();
